@@ -23,3 +23,6 @@ lotto = (63 - (n - 1)) % 42 + 1
 
 ## Takeaway
 Small input-validation mistakes can completely break the security of an application.
+
+## Presentation
+[Link]()
