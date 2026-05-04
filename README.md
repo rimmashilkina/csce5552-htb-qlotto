@@ -25,4 +25,4 @@ lotto = (63 - (n - 1)) % 42 + 1
 Small input-validation mistakes can completely break the security of an application.
 
 ## Presentation
-[Link]()
+[Link](https://github.com/rimmashilkina/csce5552-htb-qlotto-writeup/blob/878707f5e4b6bf25ae81683fadf6232ea546076e/CSCE%205552%20Hack%20the%20Box(Group%201).pptx)
